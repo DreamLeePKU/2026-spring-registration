@@ -1,0 +1,8 @@
+[about]
+name = "Jonathan"
+avatar = "Jonathan.jpg"
+hobbies = ["Programming", "Ping Pong"]
+skills = ["sleeping", "Eating"]
+
+[social]
+github = "Jonathan-Lee-coder"
